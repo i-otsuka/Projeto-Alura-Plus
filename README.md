@@ -1,5 +1,7 @@
 # Projeto-Alura-Plus
 Projeto do curso "HTML e CSS: praticando HTML/CSS" da Alura.
+Instrutora @MonicaHillman
+
 Código com modificações em relação ao executado em curso.
 
 [https://i-otsuka.github.io/projeto-alura-plus/](https://i-otsuka.github.io/projeto-alura-plus/)
